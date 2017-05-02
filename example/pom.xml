@@ -6,6 +6,7 @@
 	<artifactId>github-maven-example</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
+	<packaging>war<packaging>
 	<description>Project to demonstrate GitHub Maven plugins</description>
 	<url>https://github.com/kevinsawicki/github-maven-example</url>
 
