@@ -1,0 +1,5 @@
+== Was it Really Reflected XSS?
+
+You should have been able to execute script with the last example. Was it truly reflected XSS?
+
+
